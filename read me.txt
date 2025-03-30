@@ -1,0 +1,2 @@
+first create app password using gmail
+install pillow,tkinterable,gmail 3rd party library
